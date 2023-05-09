@@ -3,6 +3,7 @@ Completing these prompts will help you get more comfortable with
 Git.
 
 1. What is your favorite color? 
+  blue
 
 *** 
   Remember to: 
